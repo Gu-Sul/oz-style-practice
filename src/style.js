@@ -24,4 +24,4 @@ export const font_size_weight = (size = "size", weight = "weight") => {
 };
 
 export const tag_color = "#d7fa00";
-export const gray = rgb(160, 160, 160);
+export const gray = "rgb(160, 160, 160)";
